@@ -6,14 +6,21 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2022-11-20T00:39:24+00:00"
+      "last_modified": "2022-11-20T01:03:21+00:00"
+    },
+    {
+      "path": "immunity.html",
+      "title": "Immunity readings",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2022-11-20T01:03:22+00:00"
     },
     {
       "path": "index.html",
       "title": "Home",
       "author": [],
       "contents": "\n\n          \n          \n          Home\n          \n          \n          Life\n          \n          \n           \n          ▾\n          \n          \n          Immunity\n          Neurons\n          \n          \n          ☰\n          \n          \n      \n        \n          \n            \n              \n            \n              Home\n            \n            \n              \n                \n                    \n                      \n                         Twitter\n                      \n                    \n                  \n                                    \n                    \n                      \n                         GitHub\n                      \n                    \n                  \n                                  \n            \n          \n        \n        \n        \n          \n            \n            Welcome!\n            Hi, we are Le and Rong. We often post our life, thoughts\n            in this place. Enjoy!\n            \n          \n        \n      \n    \n\n    \n      \n        \n          \n            \n              \n            \n              Home\n            \n            \n              \n                \n                                    \n                    \n                       Twitter\n                    \n                  \n                                    \n                    \n                       GitHub\n                    \n                  \n                                  \n              \n            \n            \n              \n              Welcome!\n              Hi, we are Le and Rong. We often post our life,\n              thoughts in this place. Enjoy!\n              \n            \n        \n      \n    \n\n    \n    \n    ",
-      "last_modified": "2022-11-20T00:39:29+00:00"
+      "last_modified": "2022-11-20T01:03:27+00:00"
     },
     {
       "path": "Life.html",
@@ -27,8 +34,8 @@
       ],
       "date": "`r Sys.Date()`",
       "contents": "\n\nContents\nvideo\n\nvideo\n\n\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
-      "last_modified": "2022-11-20T00:39:30+00:00"
+      "last_modified": "2022-11-20T01:03:28+00:00"
     }
   ],
-  "collections": []
+  "collections": ["immunity/immunity.json"]
 }
