@@ -3,6 +3,7 @@ title: "Lerongrong Space"
 description: |
   Lerongrong Space
 output_dir: "docs"
+theme: lrr-theme.css
 navbar:
   right:
     - text: "Home"
