@@ -1,13 +1,17 @@
 name: "."
-title: "Lerongrong Space"
+title: "Home"
 description: |
   Lerongrong Space
 output_dir: "docs"
 theme: lrr-theme.css
 navbar:
   right:
-    - text: "Home"
-      href: index.html
-    - text: "About"
-      href: about.html
+    - text: "Life"
+      href: life.html
+    - test: "Science"
+      menu:
+        - text: "Immunity"
+          href: immunity.html
+        - text: "Neurons"
+          href: Neurons.html
 output: distill::distill_article
